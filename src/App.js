@@ -1,7 +1,6 @@
-import './App.css';
+import './index.css';
 
-import Form from './form'
-import logo from './logo.svg';
+import Form from './components/form'
 
 function App() {
   return (
